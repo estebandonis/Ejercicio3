@@ -1,6 +1,6 @@
 /**
 * Es donde se ejecuta todo el programa
-* @author: Esteban Donis
+* @author: Esteban Donis hiosu
 * @version: 1.00
 */
 
